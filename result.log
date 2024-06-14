@@ -1,6 +1,72 @@
-Name: 北京卫视, URL: http://222.240.82.92:9901/tsfile/live/0122_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 511ms
-Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 393ms
-Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 411ms
-Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 496ms
-Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1210ms
-Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 458ms
+Name: 广东珠江, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 730ms
+Name: 广东体育, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 730ms
+Name: 广东新闻, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 731ms
+Name: 广东卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 730ms
+Name: 大湾区卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 730ms
+Name: 深圳卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 731ms
+Name: CCTV-1, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 731ms
+Name: CCTV-2, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 731ms
+Name: CCTV-3, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 732ms
+Name: CCTV-4, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: CCTV-5, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: CCTV-5+, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: CCTV-6, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: CCTV-7, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: CCTV-8, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 723ms
+Name: CCTV-9, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 723ms
+Name: CCTV-10, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: CCTV-11, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 725ms
+Name: CCTV-12, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 723ms
+Name: CCTV-13, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 721ms
+Name: CCTV-14, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: CCTV-15, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: CCTV-16, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 721ms
+Name: CCTV-17, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: 大湾区卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 719ms
+Name: 广东卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 719ms
+Name: 浙江卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 719ms
+Name: 湖南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 719ms
+Name: 北京卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 719ms
+Name: 北京卫视, URL: http://222.240.82.92:9901/tsfile/live/0122_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 604ms
+Name: 湖北卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 721ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 524ms
+Name: 黑龙江卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 安徽卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 721ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 487ms
+Name: 重庆卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 东方卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 721ms
+Name: 东南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 甘肃卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 560ms
+Name: 广西卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 718ms
+Name: 贵州卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 海南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1436ms
+Name: 河北卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 719ms
+Name: 河南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 吉林卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 江苏卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 592ms
+Name: 江西卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 719ms
+Name: 辽宁卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 内蒙古卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 718ms
+Name: 宁夏卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 青海卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 山东卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 山西卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 陕西卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 四川卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 深圳卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 718ms
+Name: 三沙卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 719ms
+Name: 天津卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 717ms
+Name: 西藏卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 新疆卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 云南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 719ms
+Name: 翡翠台, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 724ms
+Name: 明珠台, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 凤凰中文, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 721ms
+Name: 凤凰资讯, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: 凤凰香港, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: TVBS亚洲, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: TVBS新闻, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 722ms
+Name: TVBS欢乐, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 723ms
