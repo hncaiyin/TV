@@ -51,13 +51,13 @@ CCTV-17,http://xxw.me0.cn/api/migu.php?id=19
 湖北卫视,http://115.149.139.141:10001/tsfile/live/1027_1.m3u8
 湖北卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/2300.m3u8
 黑龙江卫视,http://111.75.151.236:50085/newlive/live/hls/32/live.m3u8
-安徽卫视,http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
 安徽卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/1300.m3u8
+安徽卫视,http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
 重庆卫视,http://125.210.152.19:9123/live/hzgq-cqwsgq-h264.m3u8
 东方卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/2300.m3u8
 东南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel80/1300.m3u8
 甘肃卫视,http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
-广西卫视,https://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
+广西卫视,http://222.84.98.48:4200/udp/239.81.0.107:4056
 贵州卫视,http://218.13.170.98:9901/tsfile/live/1014_1.m3u8
 海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 河北卫视,http://110.240.239.100:8888/rtp/239.253.92.154:6011
