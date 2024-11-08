@@ -1,5 +1,6 @@
 { 
     "urls": [
+        { "url": "http://itvbox.cc/云星日记", "name": "星云日记" },
         { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
         { "url": "http://fan.xxooo.cf/tv", "name": "饭太硬（备用）" },
         { "url": "http://xhww.fun/小米/DEMO.json", "name": "小米" },
